@@ -38,4 +38,4 @@ Dodatno:
 - Redosled Discharge_Mid pre Separation_Forward je obavezan (sprečava upadanje komada u šaht)
 - Blow_Off tajmer koristi ručni Tick Count mehanizam umesto Elapsed Time Express VI-ja (nepouzdan pri ponovljenim ulascima)
 
-Detaljan opis, screenshotovi block dijagrama i puna lista rešenih problema nalaze se u pratećoj dokumentaciji (`Dokumentacija_HIL_Busilica.docx`).
+Detaljan opis, screenshotovi block dijagrama i puna lista rešenih problema nalaze se u pratećoj dokumentaciji (`DokumentacijaBusilica.pdf`).

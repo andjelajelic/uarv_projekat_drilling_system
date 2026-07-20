@@ -34,7 +34,7 @@ Dodatno:
 4. Pokrenuti VI, zatim pritisnuti S1 na simulaciji za start ciklusa
 
 ## Poznati problemi / napomene
-- S1, S2 i S4 su NC (normalno zatvoreni) kontakti — signali se čitaju invertovano
+- S1 je NO (normalno otvoren) kontakt, S2 i S4 su NC (normalno zatvoreni) kontakti — signali se čitaju invertovano
 - Redosled Discharge_Mid pre Separation_Forward je obavezan (sprečava upadanje komada u šaht)
 - Blow_Off tajmer koristi ručni Tick Count mehanizam umesto Elapsed Time Express VI-ja (nepouzdan pri ponovljenim ulascima)
 
